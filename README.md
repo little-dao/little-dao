@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Howass
-- 👀 I’m interested in Finance, Optimization, Agriculture, and Golf
-- 🌱 I’m currently pursuing double degree of Computer Science(UWaterloo) and Business Administration(Laurier) with interest in Optimization and Finance
-- 💞️ I’m not currently looking to collaborate on projects, but if you do have experience with SEC before, I am working on research on it, and would love for a chat to learn more with others
-- 📫 How to reach me howieforuw@gmail.com
-- Notice: Most of my projects are set to private due to academic/work policy, if you wish to learn more, please email directly
+Hello there, this is Howard, a third year CS/BBA double degree student. My main focus is research on SEC data processing, meanwhile I am an avid high-handicap golfer who has an aboundened interest in Optimization and Agriculture.
 
+Currently working with UWaterloo to develop school's SEC data index for accounting and finance faculty with customization, my past work was under another professor in Laurier for SEC adjusted ebitda processing, meanwhile collaborating with another friend of mine to develop an auto golf-swing analyzer. I've pinned some data of past SEC research onto the profile, take a look and you may be interested.(more friendly web-app is coming soon ^_^)
+
+I have rather poor vision and a little of trouble on hearing with some medical history, my sincere apology for any inconvenice brought to you by my phsical limitation.
+
+All in all, I wish you a great day, and feel free to reach me via email: y578zhu@uwaterloo.ca for any potential work collaboration.
