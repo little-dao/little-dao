@@ -63,11 +63,9 @@
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
-  <span>&emsp;</span>
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white">
   </a>
-  <span>&emsp;</span>
   <a href="https://www.sqlite.org/">
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
   </a>
