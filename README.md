@@ -3,14 +3,11 @@
 		<img src="https://github.com/little-dao/little-dao/blob/58968b57b60677a6d0cf27df18d9487b2a12a446/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 	</div>
 </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Howard+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Optimization+Enthusiast" alt="Headline" />
-    </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20C&O%20|%20ML%20Enthusiast;Freelancer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Senior at Uwaterloo pursuing BCS and BBA degree. I like to Code, travel, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=little-dao&label=Profile%20views&color=0e75b6&style=plastic" alt="little-dao" /> </p>
 
