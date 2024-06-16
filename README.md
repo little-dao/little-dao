@@ -84,8 +84,8 @@
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
   </a>
 </p>
-<!--
 
+<!--
 <p align="left">
   <span>&emsp;</span>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
@@ -108,6 +108,8 @@
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
   </a>
 </p> -->
+
+
 ### 👉 Software & Tools
 <p align="left">
   <span>&emsp;</span>
