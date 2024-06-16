@@ -107,8 +107,7 @@
   <a href="#">
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
   </a>
-</p>
--->
+</p> -->
 ### 👉 Software & Tools
 <p align="left">
   <span>&emsp;</span>
