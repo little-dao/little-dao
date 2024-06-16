@@ -85,7 +85,7 @@
   </a>
 </p>
 <!--
-### 👉 Graphic Designing
+
 <p align="left">
   <span>&emsp;</span>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
