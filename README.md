@@ -43,7 +43,7 @@
   </a>
   <span>&emsp;</span>
   <a href="https://www.gnu.org/software/bash/">
-    <img alt="BASH" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img alt="BASH" src="https://img.shields.io/badge/Shell_Script-121011.svg?logo=gnu-bash&logoColor=white">
   </a>
 </p>
 
