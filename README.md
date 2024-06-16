@@ -84,7 +84,7 @@
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
   </a>
 </p>
-
+<!--
 ### 👉 Graphic Designing
 <p align="left">
   <span>&emsp;</span>
@@ -108,7 +108,7 @@
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
   </a>
 </p>
-
+-->
 ### 👉 Software & Tools
 <p align="left">
   <span>&emsp;</span>
