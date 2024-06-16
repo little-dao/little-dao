@@ -132,21 +132,11 @@
   <a href="#">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   </a>
-  <span>&emsp;</span>
-  <a href="#">
-    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
-  </a>
-  <span>&emsp;</span>
-  <a href="#">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>
+
+
   <span>&emsp;</span>
   <a href="#">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
-  </a>
-  <span>&emsp;</span>
-  <a href="#">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
   </a>
 </p>
 
@@ -167,24 +157,15 @@
   </p>
 </details>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/little-dao"><img alt="little-dao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=little-dao&custom_title=little-dao's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-
 <br/>
 
-## 🙋‍♀️ Let's Connect
+##  Let's Connect
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-  <a href="mailto:yinghe.zhu@example.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="mailto:y578zhu@uwaterloo.ca"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/little-dao"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/yinghe-zhu"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/your-profile"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="https://instagram.com/your-profile"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/channel/your-channel"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  <a href="https://instagram.com/reallittledao"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <hr/>
