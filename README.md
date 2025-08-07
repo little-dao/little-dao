@@ -5,7 +5,7 @@
 </div>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.demolab.com?lines=Double+Degree+Flexing;Future+CPA%3F;Retail+Trader;Freelancer;ehhhhhhhhhhhhhhhhhh&center=true&width=500&height=50" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?lines=Double+Degree+Flexing;Future+CPA%3F;Retail+Trader;ehhhhhhhhhhhhhhhhhh&center=true&width=500&height=50" alt="Typing SVG">
 </a>
 
 </p>
