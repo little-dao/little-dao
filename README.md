@@ -86,12 +86,7 @@
 
 ## 📊 Github Stats
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Howard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=little-dao&show_icons=true&include_all_commits=true&theme=algolia&cache_seconds=86400" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=little-dao&locale=en&layout=compact&theme=algolia&cache_seconds=86400" alt="little-dao" height="192px"/>
-  </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/little-dao/github-readme-stats)
 
 <br/>
 
