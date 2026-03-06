@@ -84,12 +84,6 @@
 
 <br/>
 
-## 📊 Github Stats
-  <br/>
-<img src=(https://github-readme-stats.vercel.app/api?username=little-dao)](https://github.com/little-dao/github-readme-stats)>
-
-<br/>
-
 ## 📬 Let's Connect
 <p align="center">
   <a href="https://little-dao.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
