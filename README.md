@@ -86,7 +86,7 @@
 
 ## 📊 Github Stats
   <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/little-dao/github-readme-stats)
+<img src=(https://github-readme-stats.vercel.app/api?username=little-dao)](https://github.com/little-dao/github-readme-stats)>
 
 <br/>
 
